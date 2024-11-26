@@ -1,4 +1,4 @@
-![Banner]([https://via.placeholder.com/1200x400.png?text=Welcome+to+My+Profile](https://media.licdn.com/dms/image/v2/D4E16AQGYVUrF8FL7Lw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732652964506?e=1738195200&v=beta&t=zpV5ajv2FVgBrhXYCkzj2AMYttF7pTJkyuQ5G2WK_YA))
+![Banner](https://media.licdn.com/dms/image/v2/D4E16AQGYVUrF8FL7Lw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732652964506?e=1738195200&v=beta&t=zpV5ajv2FVgBrhXYCkzj2AMYttF7pTJkyuQ5G2WK_YA)
 
 
 # 💫 About Me:
