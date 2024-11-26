@@ -4,7 +4,10 @@
 👯 I’m looking to collaborate on open-source software (OSS) and innovative web applications  
 💬 Ask me about Python, Java, PHP, JavaScript, and full-stack development  
 📫 How to reach me:  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfonsosalado03@gmail.com)
+📫 How to reach me:  
+
+## 🌐 Social:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfonsosalado03@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfonsosaladoortega)
 
 ---
 
